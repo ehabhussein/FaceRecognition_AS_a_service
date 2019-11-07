@@ -16,4 +16,7 @@ AugQ are queues:
   [-] AugQ-misc updates an image status.
   
   
-This project can be used to aid in finding missing people by crowd sourcing. people report missing people which get registered in a database. then the crowd can help find this image.
+This project can be used to aid in finding missing people by crowd sourcing. you can apply this to many other things.
+
+
+Enjoy
