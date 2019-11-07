@@ -6,7 +6,7 @@ Will update the Readme shortly.
 The services uses some tips and tricks from pyimagesearch. Relies on Dlib , flask , rabbitmq and mysql.
 
 
-Aug-rest Is the micro service for uploading and searching and many more . swagger will help you understand what it does.
+Augrest.py Is the micro service for uploading and searching and many more . swagger will help you understand what it does.
 
 
 AugQ are queues:
